@@ -33,7 +33,7 @@ tr.desc {
 	text-align: justify;
 	height: 178px;
 }
-td.desc{
+td.desc {
 	width: 300px;
 }
 td.side {
@@ -41,12 +41,14 @@ td.side {
 	opacity: 0.5;
 }
 td.side_text {
-	width: 330px;
+	width: 378px;
+	height: 202px;
 	padding: 0 20px;
 	opacity: 0.5;
 }
 td.mid_text {
-	width: 330px;
+	width: 378px;
+	height: 202px;
 }
 button.side {
 	width: 64px;
